@@ -1,0 +1,8 @@
+Use case: productivity-visual. Asset type: handwriting glyph design master for a font.
+Use the attached image ONLY as a reference for the hand's slant, ink weight, blunt rounded pen terminals, and informal early-twentieth-century handwriting. Do not copy its layout or its labels.
+Create ONE precise black-ink glyph specimen sheet, a clean square 3 by 3 grid on pure white, with very faint thin gray straight grid boundaries. One large isolated glyph centered in each cell, ample margins. These are contemporary inferred designs in the style of the reference, not historical facsimiles.
+Exact glyph positions:
+row 1: capital X | digit 6 | digit 7
+row 2: pound sterling £ | capital Z | ampersand &
+row 3: plus + | equals = | double quotation mark "
+Do not add labels, captions, titles, extra characters or duplicated examples. No paper texture, no distressed edges, no speckles, no shadows. Smooth solid black ink with natural pen width variation, thicker downstrokes and lighter cross strokes. Match the medium/bold handwritten weight of the reference, avoiding wiry strokes. Keep counters in 6 and £ open and readable. X is a handwritten capital, Z a clear capital Z rather than a lowercase 3-shaped z. 7 should be readable with a sloped long stem and lightly curved top. £ should feel like the same hand's capital L with a short transverse currency bar. Ampersand should be a readable brisk handwritten ampersand, not an accidental blob. Equals has exactly two clearly separated short horizontal pen strokes; double quote exactly two short oblique strokes, no dots. Preserve ample separation between all grid cells.

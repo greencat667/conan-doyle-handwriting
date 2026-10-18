@@ -1,0 +1,17 @@
+{
+  "name": "conan-doyle-handwriting",
+  "version": "0.8.0",
+  "private": true,
+  "description": "Experimental Arthur Conan Doyle handwriting font and offline note renderer",
+  "license": "MIT AND CC-BY-SA-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greencat667/conan-doyle-handwriting.git"
+  },
+  "scripts": {
+    "test": "node working/check.cjs && node working/check-coverage.cjs && node working/check-spacing.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

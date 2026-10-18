@@ -1,0 +1,12 @@
+Use case: stylized-concept. Asset: a production lettering design sheet to extend a handwriting font.
+Input image 1 is STYLE REFERENCE ONLY: isolated authentic traced Arthur Conan Doyle handwriting. Do not copy its page layout or labels. Extrapolate missing glyphs using precisely its informal right-leaning pen rhythm, blunt rounded terminals, slightly uneven fast strokes, restrained loops, and moderate natural stroke contrast. Avoid ornate calligraphy, copperplate, typewriter, geometric/schoolbook symbols, scratchy/damaged-nib edges or imitation ageing. These are contemporary inferred designs, not authenticated historical samples.
+Create a white portrait sheet with EXACTLY SIX equal columns and SEVEN equal rows (42 cells), fine very pale gray straight grid lines. All cells equal. No title, no captions, no letters identifying cells, no numbers, no watermark. One large isolated BLACK ink glyph at the centre of each cell, with ample clear margins, never touching grid. Sharp smooth opaque solid ink without paper texture. Keep visual pen weight coherent with the reference. At the same notional writing size all capitals and tall symbols should have consistent height; punctuation naturally smaller.
+Contents in exact row-major order:
+Row 1: capital Z variant one (a legible compact cursive capital Z, inspired by reference lowercase z and capital Y); capital Z variant two (a legible simple diagonal capital Z with the same handwritten pen); exclamation mark !; question mark ?; colon :; semicolon ;
+Row 2: apostrophe single stroke '; double quotation mark two strokes "; hyphen -; underscore _; opening parenthesis (; closing parenthesis )
+Row 3: opening square bracket [; closing square bracket ]; opening brace {; closing brace }; forward slash /; backslash \
+Row 4: plus +; equals =; asterisk *; number sign #; percent %; ampersand &
+Row 5: at-sign @; dollar $; pound sterling £; euro €; less-than <; greater-than >
+Row 6: vertical bar |; caret ^; backtick/grave stroke; tilde ~; acute accent stroke leaning up-right; grave accent stroke leaning down-right
+Row 7: circumflex accent (small peaked roof); combining tilde accent (small wave); diaeresis accent (two small pen dots); ring accent (one small closed oval); cedilla accent (small hooked tail); leave final cell completely blank.
+The same brush/pen language must tie all glyphs to the reference, especially the ampersand, question mark, Z and currencies. Preserve exact counts and order. The symbols are shape assets for tracing, not text in a poster.

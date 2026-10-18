@@ -1,0 +1,2149 @@
+{
+  "a": {
+    "source": "smith-ca1901",
+    "box": [
+      190,
+      364,
+      209,
+      390,
+      381
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "b": {
+    "source": "smith-ca1901",
+    "box": [
+      1399,
+      191,
+      1423,
+      238,
+      229
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "c": {
+    "source": "smith-ca1901",
+    "box": [
+      1152,
+      207,
+      1177,
+      235,
+      229
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "d": {
+    "source": "smith-ca1901",
+    "box": [
+      149,
+      347,
+      177,
+      390,
+      381
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 6,
+      "removed_spurs": 0
+    }
+  },
+  "e": {
+    "source": "smith-ca1901",
+    "box": [
+      1688,
+      144,
+      1712,
+      172,
+      165
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "f": {
+    "source": "smith-ca1901",
+    "box": [
+      47,
+      981,
+      72,
+      1043,
+      1017
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 4,
+      "removed_spurs": 0,
+      "outline_preservation": true
+    }
+  },
+  "g": {
+    "source": "smith-ca1901",
+    "box": [
+      1007,
+      91,
+      1034,
+      132,
+      108
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "h": {
+    "source": "smith-ca1901",
+    "box": [
+      1042,
+      526,
+      1067,
+      565,
+      556
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "i": {
+    "source": "smith-ca1901",
+    "box": [
+      1450,
+      259,
+      1470,
+      302,
+      294
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 1
+    }
+  },
+  "k": {
+    "source": "smith-ca1901",
+    "box": [
+      1463,
+      192,
+      1495,
+      236,
+      228
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 5,
+      "removed_spurs": 0
+    }
+  },
+  "l": {
+    "source": "smith-ca1901",
+    "box": [
+      952,
+      74,
+      974,
+      116,
+      108
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 2,
+      "removed_spurs": 0
+    }
+  },
+  "m": {
+    "source": "smith-ca1901",
+    "box": [
+      1227,
+      468,
+      1262,
+      498,
+      491
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "n": {
+    "source": "smith-ca1901",
+    "box": [
+      984,
+      89,
+      1006,
+      116,
+      108
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "o": {
+    "source": "smith-ca1901",
+    "box": [
+      969,
+      93,
+      985,
+      116,
+      108
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 2,
+      "removed_spurs": 0
+    }
+  },
+  "p": {
+    "source": "smith-ca1901",
+    "box": [
+      1127,
+      270,
+      1152,
+      315,
+      296
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 5,
+      "removed_spurs": 0
+    }
+  },
+  "q": {
+    "source": "smith-ca1901",
+    "box": [
+      773,
+      852,
+      796,
+      908,
+      877
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "r": {
+    "source": "smith-ca1901",
+    "box": [
+      206,
+      362,
+      225,
+      389,
+      381
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "s": {
+    "source": "smith-ca1901",
+    "box": [
+      1475,
+      88,
+      1507,
+      118,
+      110
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "t": {
+    "source": "smith-ca1901",
+    "box": [
+      632,
+      706,
+      658,
+      743,
+      737
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 5,
+      "removed_spurs": 0
+    }
+  },
+  "u": {
+    "source": "smith-ca1901",
+    "box": [
+      1359,
+      84,
+      1383,
+      116,
+      108
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "v": {
+    "source": "smith-ca1901",
+    "box": [
+      1350,
+      684,
+      1378,
+      716,
+      708
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "w": {
+    "source": "smith-ca1901",
+    "box": [
+      1568,
+      203,
+      1604,
+      235,
+      229
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "x": {
+    "source": "smith-ca1901",
+    "box": [
+      138,
+      1068,
+      167,
+      1102,
+      1096
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 5,
+      "removed_spurs": 0
+    }
+  },
+  "y": {
+    "source": "smith-ca1901",
+    "box": [
+      127,
+      359,
+      143,
+      408,
+      382
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "A": {
+    "kind": "traced",
+    "source": "smith-ca1901",
+    "file": "smith-1901.jpg",
+    "box": [
+      1311,
+      783,
+      1357,
+      826
+    ],
+    "word": "A Conan Doyle (signature)",
+    "method": "reviewed stroke extraction",
+    "editorial": "signature form; rounded America form retained as ss01"
+  },
+  "C": {
+    "source": "smith-ca1901",
+    "box": [
+      1038,
+      76,
+      1065,
+      114,
+      108
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 2,
+      "removed_spurs": 0
+    }
+  },
+  "D": {
+    "source": "smith-ca1901",
+    "box": [
+      1501,
+      780,
+      1543,
+      838,
+      820
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 8,
+      "removed_spurs": 0
+    }
+  },
+  "I": {
+    "source": "smith-ca1901",
+    "box": [
+      310,
+      512,
+      341,
+      554,
+      545
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 2,
+      "removed_spurs": 0
+    }
+  },
+  "M": {
+    "source": "smith-ca1901",
+    "box": [
+      81,
+      348,
+      128,
+      389,
+      381
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 6,
+      "removed_spurs": 0
+    }
+  },
+  "N": {
+    "source": "smith-ca1901",
+    "box": [
+      1181,
+      327,
+      1215,
+      365,
+      358
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "S": {
+    "source": "smith-ca1901",
+    "box": [
+      235,
+      350,
+      265,
+      391,
+      382
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "W": {
+    "source": "smith-ca1901",
+    "box": [
+      206,
+      396,
+      244,
+      437,
+      430
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 6,
+      "removed_spurs": 0
+    }
+  },
+  "Y": {
+    "source": "smith-ca1901",
+    "box": [
+      1230,
+      680,
+      1268,
+      734,
+      710
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    }
+  },
+  "0": {
+    "source": "smith-ca1901",
+    "box": [
+      219,
+      782,
+      243,
+      820,
+      810
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 2,
+      "removed_spurs": 0,
+      "outline_preservation": true
+    }
+  },
+  "1": {
+    "source": "smith-ca1901",
+    "box": [
+      1367,
+      267,
+      1389,
+      300,
+      293
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "2": {
+    "source": "smith-ca1901",
+    "box": [
+      1270,
+      329,
+      1295,
+      365,
+      359
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0,
+      "outline_preservation": true
+    }
+  },
+  "3": {
+    "source": "smith-ca1901",
+    "box": [
+      1319,
+      331,
+      1345,
+      365,
+      359
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 4,
+      "removed_spurs": 0,
+      "outline_preservation": true
+    }
+  },
+  "4": {
+    "source": "smith-ca1901",
+    "box": [
+      1375,
+      328,
+      1404,
+      366,
+      359
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0,
+      "outline_preservation": true
+    }
+  },
+  "5": {
+    "source": "smith-ca1901",
+    "box": [
+      1515,
+      324,
+      1557,
+      366,
+      359
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 2,
+      "removed_spurs": 0
+    }
+  },
+  ".": {
+    "source": "smith-ca1901",
+    "box": [
+      1640,
+      808,
+      1653,
+      830,
+      823
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  ",": {
+    "source": "smith-ca1901",
+    "box": [
+      1298,
+      350,
+      1310,
+      374,
+      359
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "H": {
+    "source": "smith-ca1901",
+    "box": [
+      149,
+      513,
+      174,
+      557,
+      546
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 10,
+      "removed_spurs": 0
+    }
+  },
+  "T": {
+    "source": "smith-ca1901",
+    "box": [
+      93,
+      511,
+      110,
+      557,
+      546
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 1,
+      "removed_spurs": 0
+    }
+  },
+  "A.body": {
+    "kind": "traced",
+    "source": "smith-ca1901",
+    "box": [
+      279,
+      460,
+      313,
+      498,
+      490
+    ],
+    "method": "centreline",
+    "stats": {
+      "paths": 3,
+      "removed_spurs": 0
+    },
+    "word": "America",
+    "role": "letter-body alternate"
+  },
+  "j": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-18.jpg",
+    "box": [
+      474,
+      457,
+      490,
+      496
+    ],
+    "width": 1000,
+    "word": "just",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/118/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "Dot normalized for legibility; source has no separate tittle.",
+    "pen_radius_units": 15.77
+  },
+  "z": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-18.jpg",
+    "box": [
+      228,
+      1173,
+      247,
+      1199
+    ],
+    "width": 1000,
+    "word": "pince-nez (body text)",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/118/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "Detached remnant of preceding e excluded; connected z retained.",
+    "pen_radius_units": 22.99
+  },
+  "B": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-11.jpg",
+    "box": [
+      762,
+      210,
+      790,
+      240
+    ],
+    "width": 1000,
+    "word": "Born",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/72/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 21.5
+  },
+  "F": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-18.jpg",
+    "box": [
+      273,
+      1047,
+      301,
+      1079
+    ],
+    "width": 1000,
+    "word": "From",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/118/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 26
+  },
+  "L": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-11.jpg",
+    "box": [
+      774,
+      239,
+      798,
+      271
+    ],
+    "width": 1000,
+    "word": "La Scala",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/72/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 26
+  },
+  "P": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-11.jpg",
+    "box": [
+      134,
+      277,
+      154,
+      303
+    ],
+    "width": 1000,
+    "word": "Prima donna",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/72/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "Following r excluded; retain connected P loop and stem.",
+    "pen_radius_units": 28
+  },
+  "X": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      1,
+      1
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 80,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "Q": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-06.jpg",
+    "box": [
+      262,
+      186,
+      281,
+      218
+    ],
+    "width": 1000,
+    "word": "Quite",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/67/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 13.68
+  },
+  "U": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-18.jpg",
+    "box": [
+      257,
+      677,
+      282,
+      704
+    ],
+    "width": 1000,
+    "word": "Unless",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/118/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 29
+  },
+  "O": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-11.jpg",
+    "box": [
+      430,
+      282,
+      445,
+      303
+    ],
+    "width": 1000,
+    "word": "Opera",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/72/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 28
+  },
+  "E": {
+    "kind": "traced",
+    "source": "study-in-scarlet-1886",
+    "file": "study-in-scarlet-draft.png",
+    "box": [
+      752,
+      448,
+      778,
+      500
+    ],
+    "word": "Evidence",
+    "method": "reviewed stroke extraction",
+    "editorial": "proportions normalized"
+  },
+  "R": {
+    "kind": "traced",
+    "source": "study-in-scarlet-1886",
+    "file": "study-in-scarlet-draft.png",
+    "box": [
+      216,
+      539,
+      244,
+      593
+    ],
+    "word": "Reserved",
+    "method": "reviewed stroke extraction",
+    "editorial": "proportions normalized"
+  },
+  "V": {
+    "kind": "traced",
+    "source": "study-in-scarlet-1886",
+    "file": "study-in-scarlet-draft.png",
+    "box": [
+      1209,
+      573,
+      1248,
+      638
+    ],
+    "word": "Violins",
+    "method": "reviewed stroke extraction",
+    "editorial": "proportions normalized"
+  },
+  "G": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-02.jpg",
+    "box": [
+      481,
+      120,
+      503,
+      159
+    ],
+    "width": 1000,
+    "word": "Golden",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/102/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 26
+  },
+  "J": {
+    "kind": "traced",
+    "source": "smith-1901",
+    "file": "smith-1901.jpg",
+    "box": [
+      587,
+      258,
+      605,
+      282
+    ],
+    "width": 1000,
+    "word": "Just send me a card",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://commons.wikimedia.org/wiki/File:Letter_from_Arthur_Conan_Doyle_to_Herbert_Greenhough_Smith.jpg",
+    "credit": "Special Collections Toronto Public Library, Letters_vol1_no18; Q4_letter_vol1_no18",
+    "source_rights": "CC BY-SA 2.0 scan; public-domain document description",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 23.56
+  },
+  "K": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-13.jpg",
+    "box": [
+      303,
+      509,
+      323,
+      539
+    ],
+    "width": 1000,
+    "word": "King",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/74/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 25
+  },
+  "6": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      1,
+      2
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 72,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "8": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-02.jpg",
+    "box": [
+      682,
+      243,
+      701,
+      272
+    ],
+    "width": 1000,
+    "word": "1894",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/102/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 21.09
+  },
+  "9": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-02.jpg",
+    "box": [
+      699,
+      243,
+      714,
+      279
+    ],
+    "width": 1000,
+    "word": "1894",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/102/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 15.77
+  },
+  "7": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      1,
+      3
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 68,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "!": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-11.jpg",
+    "box": [
+      749,
+      241,
+      761,
+      270
+    ],
+    "width": 1000,
+    "word": "hum!",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/72/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 22.61
+  },
+  "?": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-13.jpg",
+    "box": [
+      582,
+      471,
+      598,
+      499
+    ],
+    "width": 1000,
+    "word": "expenses?",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/74/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 19
+  },
+  "£": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      2,
+      1
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 72,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "&": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      2,
+      3
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 62,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "\"": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      3,
+      3
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 36,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "'": {
+    "kind": "traced",
+    "source": "golden",
+    "file": "reusable-search/golden/full-40.jpg",
+    "box": [
+      717,
+      692,
+      728,
+      705
+    ],
+    "width": 1000,
+    "word": "o’clock",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/140/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 21.09
+  },
+  "-": {
+    "kind": "traced",
+    "source": "bohemia",
+    "file": "reusable-search/bohemia/full-11.jpg",
+    "box": [
+      655,
+      254,
+      673,
+      266
+    ],
+    "width": 1000,
+    "word": "Contralto - hum",
+    "method": "reviewed stroke extraction; optical pen-weight correction",
+    "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/72/",
+    "credit": "Harry Ransom Center, The University of Texas at Austin",
+    "source_rights": "No Copyright—United States",
+    "editorial": "proportions and pen weight normalized",
+    "pen_radius_units": 19
+  },
+  "Z": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      2,
+      2
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 72,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  ":": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      1,
+      5
+    ],
+    "historical_attestation": false
+  },
+  ";": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      1,
+      6
+    ],
+    "historical_attestation": false
+  },
+  "_": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      2,
+      4
+    ],
+    "historical_attestation": false
+  },
+  "(": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      2,
+      5
+    ],
+    "historical_attestation": false
+  },
+  ")": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      2,
+      6
+    ],
+    "historical_attestation": false
+  },
+  "[": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      3,
+      1
+    ],
+    "historical_attestation": false
+  },
+  "]": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      3,
+      2
+    ],
+    "historical_attestation": false
+  },
+  "{": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      3,
+      3
+    ],
+    "historical_attestation": false
+  },
+  "}": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      3,
+      4
+    ],
+    "historical_attestation": false
+  },
+  "/": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      3,
+      5
+    ],
+    "historical_attestation": false
+  },
+  "\\": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      3,
+      6
+    ],
+    "historical_attestation": false
+  },
+  "+": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      3,
+      1
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 55,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "=": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from approved handwriting",
+    "method": "generated raster design, contour traced; optical weight normalization",
+    "asset": "working/image-design/generated-sheet-v08.png",
+    "cell": [
+      3,
+      2
+    ],
+    "reference": "working/image-design/approved-reference-v08.png",
+    "prompt": "outputs/image-design-prompt-v08.txt",
+    "target_stroke_units": 36,
+    "historical_attestation": false,
+    "reason": "User-authorized inferred design; replaces an unresolved-source or blurred form, or refines an existing provisional design. Earlier genuine source forms remain in private archive."
+  },
+  "*": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      4,
+      3
+    ],
+    "historical_attestation": false
+  },
+  "#": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      4,
+      4
+    ],
+    "historical_attestation": false
+  },
+  "%": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      4,
+      5
+    ],
+    "historical_attestation": false
+  },
+  "@": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      5,
+      1
+    ],
+    "historical_attestation": false
+  },
+  "$": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      5,
+      2
+    ],
+    "historical_attestation": false
+  },
+  "€": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      5,
+      4
+    ],
+    "historical_attestation": false
+  },
+  "<": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      5,
+      5
+    ],
+    "historical_attestation": false
+  },
+  ">": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      5,
+      6
+    ],
+    "historical_attestation": false
+  },
+  "|": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      6,
+      1
+    ],
+    "historical_attestation": false
+  },
+  "^": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      6,
+      2
+    ],
+    "historical_attestation": false
+  },
+  "`": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      6,
+      3
+    ],
+    "historical_attestation": false
+  },
+  "~": {
+    "kind": "reconstructed",
+    "source": "ChatGPT Images design from traced reference",
+    "method": "generated raster design, contour traced and normalized",
+    "asset": "working/image-design/generated-sheet-v1.png",
+    "cell": [
+      6,
+      4
+    ],
+    "historical_attestation": false
+  },
+  "‘": {
+    "kind": "composed",
+    "source": "'",
+    "method": "typographic alias/composition"
+  },
+  "’": {
+    "kind": "composed",
+    "source": "'",
+    "method": "typographic alias/composition"
+  },
+  "‚": {
+    "kind": "composed",
+    "source": ",",
+    "method": "typographic alias/composition"
+  },
+  "“": {
+    "kind": "composed",
+    "source": "\"",
+    "method": "typographic alias/composition"
+  },
+  "”": {
+    "kind": "composed",
+    "source": "\"",
+    "method": "typographic alias/composition"
+  },
+  "„": {
+    "kind": "composed",
+    "source": "\"",
+    "method": "typographic alias/composition"
+  },
+  "‐": {
+    "kind": "composed",
+    "source": "-",
+    "method": "typographic alias/composition"
+  },
+  "‑": {
+    "kind": "composed",
+    "source": "-",
+    "method": "typographic alias/composition"
+  },
+  "−": {
+    "kind": "composed",
+    "source": "-",
+    "method": "typographic alias/composition"
+  },
+  "–": {
+    "kind": "composed",
+    "source": "-",
+    "method": "typographic alias/composition"
+  },
+  "—": {
+    "kind": "composed",
+    "source": "-",
+    "method": "typographic alias/composition"
+  },
+  "…": {
+    "kind": "composed",
+    "source": ".",
+    "method": "typographic alias/composition"
+  },
+  "À": {
+    "kind": "composed",
+    "source": "A",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "Á": {
+    "kind": "composed",
+    "source": "A",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Â": {
+    "kind": "composed",
+    "source": "A",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ã": {
+    "kind": "composed",
+    "source": "A",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "Ä": {
+    "kind": "composed",
+    "source": "A",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Å": {
+    "kind": "composed",
+    "source": "A",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING RING ABOVE"
+  },
+  "Ç": {
+    "kind": "composed",
+    "source": "C",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "È": {
+    "kind": "composed",
+    "source": "E",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "É": {
+    "kind": "composed",
+    "source": "E",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ê": {
+    "kind": "composed",
+    "source": "E",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ë": {
+    "kind": "composed",
+    "source": "E",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ì": {
+    "kind": "composed",
+    "source": "I",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "Í": {
+    "kind": "composed",
+    "source": "I",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Î": {
+    "kind": "composed",
+    "source": "I",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ï": {
+    "kind": "composed",
+    "source": "I",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ñ": {
+    "kind": "composed",
+    "source": "N",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "Ò": {
+    "kind": "composed",
+    "source": "O",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "Ó": {
+    "kind": "composed",
+    "source": "O",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ô": {
+    "kind": "composed",
+    "source": "O",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Õ": {
+    "kind": "composed",
+    "source": "O",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "Ö": {
+    "kind": "composed",
+    "source": "O",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ù": {
+    "kind": "composed",
+    "source": "U",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "Ú": {
+    "kind": "composed",
+    "source": "U",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Û": {
+    "kind": "composed",
+    "source": "U",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ü": {
+    "kind": "composed",
+    "source": "U",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ý": {
+    "kind": "composed",
+    "source": "Y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "à": {
+    "kind": "composed",
+    "source": "a",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "á": {
+    "kind": "composed",
+    "source": "a",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "â": {
+    "kind": "composed",
+    "source": "a",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ã": {
+    "kind": "composed",
+    "source": "a",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "ä": {
+    "kind": "composed",
+    "source": "a",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "å": {
+    "kind": "composed",
+    "source": "a",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING RING ABOVE"
+  },
+  "ç": {
+    "kind": "composed",
+    "source": "c",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "è": {
+    "kind": "composed",
+    "source": "e",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "é": {
+    "kind": "composed",
+    "source": "e",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ê": {
+    "kind": "composed",
+    "source": "e",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ë": {
+    "kind": "composed",
+    "source": "e",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "ì": {
+    "kind": "composed",
+    "source": "i",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "í": {
+    "kind": "composed",
+    "source": "i",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "î": {
+    "kind": "composed",
+    "source": "i",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ï": {
+    "kind": "composed",
+    "source": "i",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "ñ": {
+    "kind": "composed",
+    "source": "n",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "ò": {
+    "kind": "composed",
+    "source": "o",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "ó": {
+    "kind": "composed",
+    "source": "o",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ô": {
+    "kind": "composed",
+    "source": "o",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "õ": {
+    "kind": "composed",
+    "source": "o",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "ö": {
+    "kind": "composed",
+    "source": "o",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "ù": {
+    "kind": "composed",
+    "source": "u",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "ú": {
+    "kind": "composed",
+    "source": "u",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "û": {
+    "kind": "composed",
+    "source": "u",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ü": {
+    "kind": "composed",
+    "source": "u",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "ý": {
+    "kind": "composed",
+    "source": "y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ÿ": {
+    "kind": "composed",
+    "source": "y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ć": {
+    "kind": "composed",
+    "source": "C",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ć": {
+    "kind": "composed",
+    "source": "c",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ĉ": {
+    "kind": "composed",
+    "source": "C",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ĉ": {
+    "kind": "composed",
+    "source": "c",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ĝ": {
+    "kind": "composed",
+    "source": "G",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ĝ": {
+    "kind": "composed",
+    "source": "g",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ģ": {
+    "kind": "composed",
+    "source": "G",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ģ": {
+    "kind": "composed",
+    "source": "g",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ĥ": {
+    "kind": "composed",
+    "source": "H",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ĥ": {
+    "kind": "composed",
+    "source": "h",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ĩ": {
+    "kind": "composed",
+    "source": "I",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "ĩ": {
+    "kind": "composed",
+    "source": "i",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "Ĵ": {
+    "kind": "composed",
+    "source": "J",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ĵ": {
+    "kind": "composed",
+    "source": "j",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ķ": {
+    "kind": "composed",
+    "source": "K",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ķ": {
+    "kind": "composed",
+    "source": "k",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ĺ": {
+    "kind": "composed",
+    "source": "L",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ĺ": {
+    "kind": "composed",
+    "source": "l",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ļ": {
+    "kind": "composed",
+    "source": "L",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ļ": {
+    "kind": "composed",
+    "source": "l",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ń": {
+    "kind": "composed",
+    "source": "N",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ń": {
+    "kind": "composed",
+    "source": "n",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ņ": {
+    "kind": "composed",
+    "source": "N",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ņ": {
+    "kind": "composed",
+    "source": "n",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ŕ": {
+    "kind": "composed",
+    "source": "R",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ŕ": {
+    "kind": "composed",
+    "source": "r",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ŗ": {
+    "kind": "composed",
+    "source": "R",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ŗ": {
+    "kind": "composed",
+    "source": "r",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ś": {
+    "kind": "composed",
+    "source": "S",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ś": {
+    "kind": "composed",
+    "source": "s",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ŝ": {
+    "kind": "composed",
+    "source": "S",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ŝ": {
+    "kind": "composed",
+    "source": "s",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ş": {
+    "kind": "composed",
+    "source": "S",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ş": {
+    "kind": "composed",
+    "source": "s",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ţ": {
+    "kind": "composed",
+    "source": "T",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "ţ": {
+    "kind": "composed",
+    "source": "t",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CEDILLA"
+  },
+  "Ũ": {
+    "kind": "composed",
+    "source": "U",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "ũ": {
+    "kind": "composed",
+    "source": "u",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING TILDE"
+  },
+  "Ů": {
+    "kind": "composed",
+    "source": "U",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING RING ABOVE"
+  },
+  "ů": {
+    "kind": "composed",
+    "source": "u",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING RING ABOVE"
+  },
+  "Ŵ": {
+    "kind": "composed",
+    "source": "W",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ŵ": {
+    "kind": "composed",
+    "source": "w",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ŷ": {
+    "kind": "composed",
+    "source": "Y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "ŷ": {
+    "kind": "composed",
+    "source": "y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING CIRCUMFLEX ACCENT"
+  },
+  "Ÿ": {
+    "kind": "composed",
+    "source": "Y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ź": {
+    "kind": "composed",
+    "source": "Z",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ź": {
+    "kind": "composed",
+    "source": "z",
+    "method": "reviewed base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ẁ": {
+    "kind": "composed",
+    "source": "W",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "ẁ": {
+    "kind": "composed",
+    "source": "w",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "Ẃ": {
+    "kind": "composed",
+    "source": "W",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "ẃ": {
+    "kind": "composed",
+    "source": "w",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING ACUTE ACCENT"
+  },
+  "Ẅ": {
+    "kind": "composed",
+    "source": "W",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "ẅ": {
+    "kind": "composed",
+    "source": "w",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING DIAERESIS"
+  },
+  "Ỳ": {
+    "kind": "composed",
+    "source": "Y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  },
+  "ỳ": {
+    "kind": "composed",
+    "source": "y",
+    "method": "traced base glyph plus image-designed diacritic",
+    "mark": "COMBINING GRAVE ACCENT"
+  }
+}

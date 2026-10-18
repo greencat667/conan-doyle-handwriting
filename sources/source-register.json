@@ -1,0 +1,134 @@
+{
+  "reviewed": "2026-10-18",
+  "scope": "Sources actually used by the v0.8 font; no original scans distributed.",
+  "sources": {
+    "smith-ca1901": {
+      "title": "Letter to Herbert Greenhough Smith, ca. 1901",
+      "record": "https://commons.wikimedia.org/wiki/File:Letter_from_Arthur_Conan_Doyle_to_Herbert_Greenhough_Smith.jpg",
+      "institution": "Special Collections Toronto Public Library",
+      "rights": "CC BY-SA 2.0 scan; public-domain document description",
+      "rights_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "Special Collections Toronto Public Library, Letters_vol1_no18; Q4_letter_vol1_no18",
+      "characters": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "A",
+        "C",
+        "D",
+        "I",
+        "M",
+        "N",
+        "S",
+        "W",
+        "Y",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        ".",
+        ",",
+        "H",
+        "T",
+        "A.body"
+      ]
+    },
+    "golden": {
+      "title": "The Adventure of the Golden Pince-Nez",
+      "institution": "Harry Ransom Center, The University of Texas at Austin",
+      "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/169/",
+      "manifest": "https://hrc.contentdm.oclc.org/iiif/info/p15878coll8/169/manifest.json",
+      "canvases": 69,
+      "rights": "No Copyright—United States",
+      "rights_url": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+      "reproduction_policy": "https://www.hrc.utexas.edu/policies/use/",
+      "basis": "Institution identifies the manuscript as public domain in the US and relinquishes any additional reproduction copyright for public-domain works. For UK use, select letterform shapes from the lifetime-published narrative; do not reproduce unpublished dedication or manuscript-only prose. The US statement alone is not a determination for other territories.",
+      "credit": "Harry Ransom Center, The University of Texas at Austin",
+      "characters": [
+        "j",
+        "z",
+        "F",
+        "U",
+        "G",
+        "8",
+        "9",
+        "'"
+      ]
+    },
+    "bohemia": {
+      "title": "A Scandal in Bohemia",
+      "institution": "Harry Ransom Center, The University of Texas at Austin",
+      "record": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll8/id/99/",
+      "manifest": "https://hrc.contentdm.oclc.org/iiif/info/p15878coll8/99/manifest.json",
+      "canvases": 38,
+      "rights": "No Copyright—United States",
+      "rights_url": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+      "reproduction_policy": "https://www.hrc.utexas.edu/policies/use/",
+      "basis": "Institution identifies the manuscript as public domain in the US and relinquishes any additional reproduction copyright for public-domain works. For UK use, select letterform shapes from the lifetime-published narrative; do not reproduce unpublished dedication or manuscript-only prose. The US statement alone is not a determination for other territories.",
+      "credit": "Harry Ransom Center, The University of Texas at Austin",
+      "characters": [
+        "B",
+        "L",
+        "P",
+        "Q",
+        "O",
+        "K",
+        "!",
+        "?",
+        "-"
+      ]
+    },
+    "study-in-scarlet-1886": {
+      "title": "Study in Scarlet draft, March 1886",
+      "record": "https://commons.wikimedia.org/wiki/File:Study_in_Scarlet_Draft.png",
+      "rights": "Public-domain-tagged Commons source",
+      "credit": "Arthur Conan Doyle; Wikimedia Commons source",
+      "characters": [
+        "E",
+        "R",
+        "V"
+      ]
+    },
+    "smith-1901": {
+      "title": "Letter to Herbert Greenhough Smith, ca. 1901",
+      "record": "https://commons.wikimedia.org/wiki/File:Letter_from_Arthur_Conan_Doyle_to_Herbert_Greenhough_Smith.jpg",
+      "institution": "Special Collections Toronto Public Library",
+      "rights": "CC BY-SA 2.0 scan; public-domain document description",
+      "rights_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "credit": "Special Collections Toronto Public Library, Letters_vol1_no18; Q4_letter_vol1_no18",
+      "characters": [
+        "J"
+      ]
+    }
+  },
+  "inferred_alphanumeric": [
+    "X",
+    "Z",
+    "6",
+    "7"
+  ],
+  "generated_design_disclosure": "32 basic forms and seven accent marks use contemporary image-assisted designs. They are not autograph attestations. Exact v0.8 prompt and master are included."
+}

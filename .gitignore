@@ -1,0 +1,12 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+.DS_Store
+working/spacing/
+working/clean-proof/phrase-render.png
+working/coverage-sheet.svg
+outputs/desk-preview.png
+outputs/export-check.*
+outputs/coverage-note.png
+outputs/coverage-desk.png
