@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "files": [
     ".gitignore",
     ".nojekyll",
@@ -38,5 +38,5 @@
     "working/layout.js",
     "working/make-renderer.py"
   ],
-  "description": "Current repository contents; original v0.8.0 release remains an immutable snapshot."
+  "description": "The Doyle Desk: browser handwriting tool, Conan Doyle Letters font, editable vectors, source credits and licences."
 }

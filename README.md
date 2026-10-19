@@ -1,19 +1,28 @@
-# Conan Doyle handwriting
+# The Doyle Desk
 
-An experimental font and offline handwriting desk based on attributed Arthur Conan Doyle handwriting. Free to use, study and improve, with source credits and inferred forms disclosed.
+### A little Victorian correspondence, in your browser.
 
-![Conan Doyle Letters v0.8 specimen](outputs/v08-review.png)
+Write a letter, leave a cryptic clue, or send a distinctly unusual invitation — in a recreation of **Arthur Conan Doyle’s handwriting**. The Doyle Desk pairs a free installable font with a browser tool that turns your words into handwritten notes.
 
-## Use
+**[Open the desk →](https://greencat667.github.io/the-doyle-desk/)** · **[Download the latest release](https://github.com/greencat667/the-doyle-desk/releases/latest)**
 
-**[Try the handwriting desk online](https://greencat667.github.io/conan-doyle-handwriting/)** — write a note and export it before downloading anything. The online tool runs in your browser; note text is not uploaded.
+![Conan Doyle Letters — traced handwriting and reconstructed characters](outputs/v08-review.png)
 
-- **Font:** install [Conan Doyle Letters](outputs/conan-doyle-letters-study.ttf). Replace an older installation and restart apps that cache fonts.
-- **Handwriting desk:** download the repository or release ZIP, then open [handwriting-desk.html](outputs/handwriting-desk.html) locally. It works offline, stores text/settings in your browser and exports SVG/PNG, including transparent backgrounds. No text is sent to a server.
+## From manuscript to message
 
-The font supports all 95 printable ASCII characters and selected Latin/Welsh accents: 216 visible mappings, ordinary/nonbreaking spaces and an alternate capital A. The signature A is the default; the rounded body A is available in the desk and OpenType `ss01`.
+The project began with a question: could the handwriting in Doyle’s surviving letters and manuscripts become something people could write with today? The result brings together traced letterforms, carefully disclosed reconstructions and a small writing desk you can use without installing anything.
 
-## Fidelity and limitations
+Type your message, adjust its size and spacing, and export an **SVG or PNG**. Choose a transparent background for a design, or keep the paper for a ready-made note. Everything runs in your browser; your text stays on your device. Download the desk to use it offline.
+
+## Make it your own
+
+- **Try it first:** [open the live desk](https://greencat667.github.io/the-doyle-desk/), type a note and export an image.
+- **Install the font:** download [Conan Doyle Letters](outputs/conan-doyle-letters-study.ttf) and open it in your system’s font installer. Replace an older installation and restart apps that cache fonts.
+- **Keep an offline copy:** [download the release ZIP](https://github.com/greencat667/the-doyle-desk/releases/latest), extract it, then open `outputs/handwriting-desk.html`. No account or server is needed. Text and settings are saved in your browser.
+
+The font covers all 95 printable ASCII characters and selected Latin/Welsh accents: 216 visible mappings, ordinary/nonbreaking spaces and an alternate capital A. Doyle’s signature-style A is the default; a rounded body-text A is available in the desk and through OpenType `ss01`.
+
+## How close is it to Doyle?
 
 **58/62 English letters and digits are source-traced.** X, Z, 6 and 7 are contemporary inferred designs. Six punctuation forms are traced: period, comma, !, ?, apostrophe and dash. £, &, double quotes, + and = are inferred, as are the other unverified symbols. In total, 32 basic forms and seven accent marks use image-assisted designs; accents and smart aliases are composed.
 
@@ -25,7 +34,7 @@ The desktop font and SVG desk share optical kerning. Supporting desktop apps mus
 
 The online demo is served from `main` at the repository root. `index.html` opens the same self-contained desk in `outputs/`; `.nojekyll` keeps the files static. Rebuilding `outputs/handwriting-desk.html` updates both the downloadable tool and the hosted demo when pushed to `main`. No separate application server is needed.
 
-## Build
+## Under the blotter: build it yourself
 
 Python 3.10 or later:
 
