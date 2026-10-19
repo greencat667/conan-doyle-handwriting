@@ -6,6 +6,8 @@ An experimental font and offline handwriting desk based on attributed Arthur Con
 
 ## Use
 
+**[Try the handwriting desk online](https://greencat667.github.io/conan-doyle-handwriting/)** — write a note and export it before downloading anything. The online tool runs in your browser; note text is not uploaded.
+
 - **Font:** install [Conan Doyle Letters](outputs/conan-doyle-letters-study.ttf). Replace an older installation and restart apps that cache fonts.
 - **Handwriting desk:** download the repository or release ZIP, then open [handwriting-desk.html](outputs/handwriting-desk.html) locally. It works offline, stores text/settings in your browser and exports SVG/PNG, including transparent backgrounds. No text is sent to a server.
 
@@ -18,6 +20,10 @@ The font supports all 95 printable ASCII characters and selected Latin/Welsh acc
 These are distinct fixed forms assembled from different writing periods, not a complete reproduction of Doyle's handwriting. Generated forms are not historical attestations. The desk's amber status identifies inferred/composed characters, and unsupported characters appear as boxes. There is no claim of complete Unicode coverage or a completed archive search.
 
 The desktop font and SVG desk share optical kerning. Supporting desktop apps must enable kerning. The desk's optional joins are inferred short bridges, not historical ligatures; font-proof mode adds none. The previous spacing treatment is available for comparison.
+
+## GitHub Pages
+
+The online demo is served from `main` at the repository root. `index.html` opens the same self-contained desk in `outputs/`; `.nojekyll` keeps the files static. Rebuilding `outputs/handwriting-desk.html` updates both the downloadable tool and the hosted demo when pushed to `main`. No separate application server is needed.
 
 ## Build
 

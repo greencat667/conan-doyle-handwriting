@@ -2,11 +2,13 @@
   "version": "0.8.0",
   "files": [
     ".gitignore",
+    ".nojekyll",
     "CONTRIBUTING.md",
     "LICENSE",
     "LICENSE-FONT",
     "README.md",
     "THIRD-PARTY-NOTICES.md",
+    "index.html",
     "outputs/complete-specimen.png",
     "outputs/conan-doyle-letters-study.ttf",
     "outputs/coverage.json",
@@ -35,5 +37,6 @@
     "working/layout-model.json",
     "working/layout.js",
     "working/make-renderer.py"
-  ]
+  ],
+  "description": "Current repository contents; original v0.8.0 release remains an immutable snapshot."
 }
